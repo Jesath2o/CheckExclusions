@@ -1,7 +1,8 @@
 {
   "exclusion_system": {
     "domain_patterns": [
-      "^https?://.*\\.systecitpros\\.com/.*$",
+      "^https?://[^/]*\\.systecitpros\\.com(/.*)?$",
+      "^https?://[^/]*\\.googleadservices\\.com(/.*)?$"
     ]
   }
 }
