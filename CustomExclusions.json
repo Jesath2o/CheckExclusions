@@ -3,7 +3,8 @@
     "domain_patterns": [
       "^https?://[^/]*\\.systecitpros\\.com(/.*)?$",
       "^https?://[^/]*\\.googleadservices\\.com(/.*)?$",
-      "^https?://[^/]*\\.apse\\.org(/.*)?$"
+      "^https?://[^/]*\\.apse\\.org(/.*)?$",
+      "^https?://[^/]*\\.fcci-group\\.com(/.*)?$"
     ]
   }
 }
